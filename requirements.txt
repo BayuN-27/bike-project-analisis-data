@@ -3,5 +3,3 @@ numpy==1.25.2
 pandas==2.1.4
 seaborn==0.13.0
 streamlit==1.41.1
-scipy==1.14.1
-scikit-learn==1.5.2
